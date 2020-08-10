@@ -19,6 +19,13 @@ Suppose You created a repo in GitHub already. And you want to use that one.
 <br>Open the repo online & do the following - <br><br>
 ![Cloning Existing Repository](/Assets/Cloning%20Repo%20into%20GD.png)<br><Br>
 Click on `Open with GitHub Desktop`
+<br>
+
+##### Or<br>
+
+You can add existing local repo by clicking on `Add an existing Repository from hard drive`<br><br>
+
+![GD Repo Screen](/Assets/GD%20Repo%20Screen.png)<br>
 
 #### Adding files & other stuff
 
