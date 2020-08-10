@@ -13,4 +13,4 @@ If you are on Mac OS if will download Mac OS version<br>
 After downloading the setup, install it.
 
 While Installing you might run through the following option -<br>
-![Editor Choice](/Assets/Selecting Git's Editor.png)
+![Editor Choice](/Assets/Selecting%20Git's%20Editor.png)
