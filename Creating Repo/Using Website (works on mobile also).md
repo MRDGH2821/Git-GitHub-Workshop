@@ -1,4 +1,4 @@
-# Creating a Repo Using Website
+# Creating a Repo Using the Website
 
 _This guide works both on mobile & computer_<br><br>
 
