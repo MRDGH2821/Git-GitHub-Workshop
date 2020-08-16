@@ -25,4 +25,7 @@ Open Git Bash and run the following commands. Make sure that you put your name &
 `git config --global user.email johndoe@example.com`
 
 ![Configuring Git using Git Bash](/Assets/Configuring%20Git%20in%20Git%20Bash.png)<br><br>
-You can rerun the command if you happen to make any mistakes. We are humans after all & bound to mistake somewhere or other!
+You can rerun the command if you happen to make any mistakes. We are humans after all & bound to mistake somewhere or other!<br>
+
+_Pro Tip:_ it would be wise to set default editor **again** using Git Bash. Click [here](https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config#_core_editor) to see which command to run.
+While commiting files, if you forget to put message, it will launch the editor which you have set. By default it launches Vi, which is difficult to use.
