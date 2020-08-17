@@ -114,7 +114,7 @@ In this context, a prime example would be GitHub Repository.
 
 Here I will be using [Demo-repo](https://github.com/MRDGH2821/Demo-Repo).
 
-I have did 2 changes.
+I have done 2 changes.
 
 1.  Add new file.
 2.  Modify existing file.
