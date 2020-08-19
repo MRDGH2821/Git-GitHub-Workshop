@@ -2,7 +2,8 @@
 
 _This guide works both on mobile & computer_<br><br>
 
-Click/Tap [here](www.github.com/new) to create a new Repo.
+Click/Tap [here](https://www.github.com/new) to create a new Repo.
+Or open your profile & make a new one
 
 ![Creating Repo on web](/Assets/Creating%20repo%20on%20web.png)
 <br><br>
