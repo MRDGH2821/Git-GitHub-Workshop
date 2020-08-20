@@ -6,6 +6,7 @@ To understand how to move forward, follow the guide by opening the folders in th
 
 1.  [Prerequisites](/Prerequisites)
 2.  [Creating Repo](/Creating%20Repo)
+3.  [Contributing To Existing Repositories by Sending a Pull Request (PR)](/Contributing%20To%20Existing%20Repositories)
 
 References -<br>
 
