@@ -4,14 +4,9 @@ This is a tutorial repo, used for PD Club's STW-PDW Workshop 2020.
 
 To understand how to move forward, follow the guide by opening the folders in this order:
 
-<<<<<<< HEAD
 1.  [Prerequisites](/Prerequisites)
 2.  [Creating Repo](/Creating%20Repo)
 3.  [Contributing To Existing Repositories by Sending a Pull Request (PR)](/Contributing%20To%20Existing%20Repositories)
-=======
-1.  [Prerequisites](/Prerequisites/README.md)
-2.  [Creating Repo](/Creating%20Repo/README.md)
->>>>>>> 7d11dd805b8030c05d27da0c0e600f037ed8e7cc
 
 References -<br>
 
