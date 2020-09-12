@@ -1,6 +1,8 @@
-# Till now you've been pushing to your own repository, but you're not really using open source to its full capacity if you're not contributing to existing repositories!
+# Contributing to Existing Repositories
 
-## You can contribute to open source projects like Mozilla and Python!
+Till now you've been pushing to your own repository, but you're not really using open source to its full capacity if you're not contributing to existing repositories!
+
+You can contribute to open source projects like Mozilla and Python!
 
 ## How? Follow this guide to find more!
 
@@ -10,11 +12,11 @@ I'll be using Real-Dev-Squad's repository as an example. Links will vary accordi
 
 Fork this repository using the **Fork** option at the top-right corner of this page. This will create your own copy of this repository. You'll be redirected to your forked repository. Copy the link of this repository (which will look like `https://github.com/<your-username>/website-static/`) as you'll need it in the step 2.
 
-![how-to-fork](/assets/forking.png)
+![how-to-fork](/Assets/forking.png)
 
 2.  **Cloning repository**
 
- Clone your forked repository, this will download your copy of repository in your computer. To do this, open your terminal (command prompt/bash/git bash) and enter the following command, paste your link after the word **clone** without the **\<>**.
+Clone your forked repository, this will download your copy of repository in your computer. To do this, open your terminal (command prompt/bash/git bash) and enter the following command, paste your link after the word **clone** without the **\<>**. <br>
 
     git clone <link which you copied in the step 1>
 
@@ -75,15 +77,17 @@ For example, if the branch name is develop:
 
 8.  **Pushing your code**
 
-Now it is the time to push the changes of your local main branch to your copy of the repository (aka forked repository) which is on Github (which we cloned in step 2).
+Now it is the time to push the changes of your local main branch to your copy of the repository (aka forked repository) which is on GitHub (which we cloned in step 2).
 
     git push origin
 
 9.  **Pull request**
 
-Now go to your forked repository and you'll see that **This branch is xx commits ahead of Real-Dev-Squad:main.**  Right next to it will be an option to **Pull Request**. Click on it, submit your pull request (also known as _PR_) explaining what you've done.
+Now go to your forked repository and you'll see <br>
+`This branch is xx commits ahead of Real-Dev-Squad:main.`  <br>
+Right next to it will be an option to **Pull Request**. Click on it, submit your pull request (also known as _PR_) explaining what you've done.
 
-![how-to-open-pull-request](assets/pull-request.png "Pull Request")
+![how-to-open-pull-request](/Assets/pull-request.png)
 
 10. **Review stage**
 
@@ -91,4 +95,7 @@ Wait for it to get reviewed, make the changes required (if any) , commit your ch
 
 11. **Congratulations on making your first Pull Request! 🎉**
 
-Contributed by my friend, [Swaraj Rajpure](https://github.com/swarajpure).<br>
+<br><br>Contributed by my friend, [Swaraj Rajpure](https://github.com/swarajpure).<br>
+
+Additional notes:<br>
+You can perform Pull requests across branches in your own repository!
