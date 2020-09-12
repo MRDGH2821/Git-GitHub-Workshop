@@ -11,6 +11,7 @@ To understand how to move forward, follow the guide by opening the folders in th
 References -<br>
 
 -   [Markdown Guide](https://www.markdownguide.org)
+-   [MakeUseOf Markdown Cheat Sheet](https://www.makeuseof.com/tag/printable-markdown-cheat-sheet/)
 -   [Top 10 Git Tutorials for Beginners](https://www.webfx.com/blog/web-design/git-tutorials-beginners/)
 -   [Learn Git Branching](https://learngitbranching.js.org/)
 -   [Git Immersion](https://gitimmersion.com/index.html)
