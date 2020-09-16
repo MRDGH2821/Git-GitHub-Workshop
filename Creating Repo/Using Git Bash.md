@@ -11,41 +11,49 @@ While Initial steps differ, but once the repo is initialized, steps are same for
 
 ### Creating a local Repository
 
-Open Git Bash. <br>
+Open Git Bash. 
 Navigate to a folder where you would want to create your repo.
-![Creating Repo using Git Bash](/Assets/Creating%20Repo%20in%20Git%20Bash.png)
+<img src="/Assets/Creating%20Repo%20in%20Git%20Bash.png" alt="Creating Repo using Git Bash"  />
 
 Shortcut - Open the folder in File Explorer & right Click o empty space and click on "Git Bash Here"
 
-![Creating Repo using Right click](/Assets/Creating%20Repo%20in%20Git%20Bash%20using%20Right%20click.png)
-<br><br>
-To initialize the repo, run this command <br>
+<img src="/Assets/Creating%20Repo%20in%20Git%20Bash%20using%20Right%20click.png" alt="Creating Repo using Right click"  />
 
-    git init
+
+
+To initialize the repo, run this command
+
+```bash
+git init
+```
 
 ### Using existing Repository
 
 The method is same except the creation part. Navigate to the local Repo folder inside Git Bash.
 
-Use this command to check current status.<br>
+Use this command to check current status.
 
-    git status
+```bash
+git status
+```
 
 ## Scenario 2: Creating/Using GitHub created new/existing Repository.
 
 ### Creating new GitHub Repository.
 
-Click/Tap [here](www.github.com/new) to create a new GitHub Repository.<br>
+Click/Tap [here](www.github.com/new) to create a new GitHub Repository.
 
-Or open your GitHub profile and create from there.<br>
+Or open your GitHub profile and create from there.
 
-After creating, Copy the WebURL (ending with .git)<br>
+After creating, Copy the WebURL (ending with .git)
 _In this picture, it is not showing completely. Just use that copy button._
-![Copying GitHub Repo WebURL](/Assets/Cloning%20Repo%20into%20GD.png)
+<img src="/Assets/Cloning%20Repo%20into%20GD.png" alt="Copying GitHub Repo WebURL"  />
 
-And use the command <br>
+And use the command 
 
-    git clone <url>
+```bash
+git clone <url>
+```
 
 ![Cloning repo via Git Bash](/Assets/Git%20bash%20clone.png)
 
@@ -80,7 +88,9 @@ The new files are currently unstaged. We need to move them to staging area where
 
 As you can see in the screenshot, the command for adding/Staging files for tracking is -<br>
 
-    git add <complete file name>
+```bash
+git add <complete file name>
+```
 
 The file name should be enclosed in quotation marks if it contains any spaces.
 
@@ -93,11 +103,15 @@ Repeat this command for all the files/folders you copied to the repo.<br>
 
 _Pro tip_ - To stage all new files, folders & subfolders use the following.<br>
 
-    git add -A
+```bash
+git add -A
+```
 
  _Or_
 
-    git add -all
+```bash
+git add -all
+```
 
 #### Commiting the Files
 
@@ -107,11 +121,15 @@ In my case there's only one file currently staged.
 
 To commit the changes use this command -<br>
 
-    `git commit -m "<type a meaningful message here>"`
+```bash
+git commit -m "<type a meaningful message here>"
+```
 
 For example -<br>
 
-    git commit -m "Added sample file"
+```bash
+git commit -m "Added sample file"
+```
 
 ![GitBash Commiting Files](/Assets/GB%20Commit%20Files.png)
 <br><br>
@@ -136,11 +154,15 @@ Here are the commands which I executed.<br><br>
 
 After making all commits, I have used this command to push the commits to remote Repository -<br>
 
-    git push
+```bash
+git push
+```
 
 As you can see in the screenshot, the remote branch was ahead of my local repo. So I have to pull all the commits/changes in to my local repo after which I can push my commits -<br>
 
-    git pull
+```bash
+git pull
+```
 
 #### Setting Remote Repository for Local Repository
 
@@ -153,7 +175,9 @@ When you will try executing `git push` command on locally created repo, Git Bash
 To set a remote Repository, we need name & url.<br>
 And then we need to execute the following command
 
-    git remote add <name> <url>
+```bash
+git remote add <name> <url>
+```
 
 The above command follows the generic syntax of git remote add <name> <repository url>
 
