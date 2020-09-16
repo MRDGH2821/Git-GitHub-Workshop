@@ -2,13 +2,17 @@
 
 This is a tutorial repo, used for PD Club's STW-PDW Workshop 2020.
 
+[TOC]
+
+### Getting started
+
 To understand how to move forward, follow the guide by opening the folders in this order:
 
 1.  [Prerequisites](/Prerequisites/README.md)
 2.  [Creating Repo](/Creating%20Repo/README.md)
 3.  [Contributing To Existing Repositories by Sending a Pull Request (PR)](/Contributing%20To%20Existing%20Repositories/README.md)
 
-References -<br>
+### References
 
 -   [Markdown Guide](https://www.markdownguide.org)
 -   [MakeUseOf Markdown Cheat Sheet](https://www.makeuseof.com/tag/printable-markdown-cheat-sheet/)
