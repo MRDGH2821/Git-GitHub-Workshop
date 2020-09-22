@@ -17,7 +17,7 @@ Navigate to a folder where you would want to create your repo.
 
 _Pro tip_ - Open the folder in File Explorer & right Click on empty space and click on "Git Bash Here"
 
-<img src="Assets/Creating_Repo_in_Git_Bash_using_Right_click.png" alt="Creating Repo using Right click"  />
+![Creating Repo using Right click](Assets/Creating_Repo_in_Git_Bash_Using_Right_Click.png)
 
 To initialize the repo, run this command
 
@@ -45,7 +45,7 @@ Or open your GitHub profile and create from there.
 
 After creating, Copy the Web URL (ending with .git)
 _In this picture, it is not showing completely. Just use that copy button._
-<img src="Assets/Cloning_Repo_into_GD.png" alt="Copying GitHub Repo WebURL"  />
+![Copying GitHub Repo WebURL](Assets/Cloning_Repo_Into_Gd.png)
 
 And use the command
 
@@ -53,7 +53,7 @@ And use the command
 git clone <url>
 ```
 
-![Cloning repo via Git Bash](Assets/Git_bash_clone.png)
+![Cloning repo via Git Bash](Assets/Git_Bash_Clone.png)
 
 **Note:** After cloning, you need to enter into the local repo folder. Use `dir` command to list all the folders present. Use `cd` command to enter inside your repo.
 
@@ -83,7 +83,7 @@ To show how it is done.<br>
 #### Staging the Files
 
 After Adding a sample text file -<br>
-![GitBash Repo with sample txt file](Assets/GBR_with_sample_txt.png)<br><br>
+![GitBash Repo with sample txt file](Assets/Gbr_With_Sample_Txt.png)<br><br>
 The new files are currently unstaged. We need to move them to staging area where we can commit them & push the changes.<br>
 
 As you can see in the screenshot, the command for adding/Staging files for tracking is -<br>
@@ -120,7 +120,7 @@ git add -all
 
 After staging them, check using `git status` to see how many files are being currently being staged.<br>
 In my case there's only one file currently staged.
-![GitBash Staging Area](Assets/GB_Staged_files.png)
+![GitBash Staging Area](Assets/Gb_Staged_Files.png)
 
 To commit the changes use this command -<br>
 
@@ -134,7 +134,7 @@ For example -<br>
 git commit -m "Added sample file"
 ```
 
-![GitBash Commiting Files](Assets/GB_Commit_Files.png)
+![GitBash Commiting Files](Assets/Gb_Commit_Files.png)
 <br>
 
 _Pro tip_ - Incase you want to commit all new & modified files, use this command -
@@ -157,8 +157,8 @@ I have done 2 changes.
 2.  Modify existing file.
 
 Here are the commands which I executed.<br><br>
-![Demo-Repo part 1](Assets/GB_Demo_repo_p1.png)<br><br>
-![Demo-Repo part 2](Assets/GB_Demo_repo_p2.png)
+![Demo-Repo part 1](Assets/Gb_Demo_Repo_P1.png)<br><br>
+![Demo-Repo part 2](Assets/Gb_Demo_Repo_P2.png)
 <br>
 
 After making all commits, I have used this command to push the commits to remote Repository -<br>
@@ -179,7 +179,7 @@ Focus: GitBash Repo
 
 When you will try executing `git push` command on locally created repo, Git Bash will report the following.<br>
 
-![GitBash having no remote Repository](Assets/GB_no_remote.png)
+![GitBash having no remote Repository](Assets/Gb_No_Remote.png)
 
 To set a remote Repository, we need name & URL.<br>
 And then we need to execute the following command
@@ -200,15 +200,15 @@ I will demonstrate using `Gitbash Repo`
 
 1.  First I create a new GitHub repository [here](www.github.com/new)
 
-![Creating Remote Repository](Assets/Creating_GitBash_Repo_on_GitHub.png)
+![Creating Remote Repository](Assets/Creating_Gitbash_Repo_On_GitHub.png)
 <br>
 After creating the repo, GitHub will show a quick setup page.
-![Quick Setup Page](Assets/GBR_QuickSetup.png)
+![Quick Setup Page](Assets/Gbr_Quicksetup.png)
 
 2.  To make things easier, copy the commands present at<br> `…or push an existing repository from the command line`
 
 And execute it in Git Bash.
-![setting remote repository](Assets/Setting_remote_repo.png)
+![setting remote repository](Assets/Setting_Remote_Repo.png)
 
 3.  To check whether the commits have been pushed successfully (even though Git Bash tells you though)<br>
     Open your GitHub repository and see for yourselves!
@@ -216,6 +216,6 @@ And execute it in Git Bash.
 In my case, the repo had only 1 file - `Sample File.txt`
 
 And on GitHub it shows like this -<br>
-![GitBash Repo on GitHub](Assets/GBR_on_GitHub.png)
+![GitBash Repo on GitHub](Assets/GBR_On_Github.png)
 
 That's all!

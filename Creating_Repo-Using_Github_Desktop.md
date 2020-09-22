@@ -2,7 +2,7 @@
 
 After you Sign in to GitHub Desktop you will see this screen.
 
-![GD Repo Screen](Assets/GD_Repo_Screen.png)<br>
+![GD Repo Screen](Assets/Gd_Repo_Screen.png)<br>
 
 Lets create a new Repository.<br>
 Click on the 2nd option.<br>
@@ -11,13 +11,13 @@ Click on the 2nd option.<br>
 Enter the name, a brief description and done!
 You may also want to change the "Local path"
 
-![Creating Repo in GD](Assets/Creating_Repo_in_GD.png)<br>
+![Creating Repo in GD](Assets/Creating_Repo_in_Gd.png)<br>
 
 ### Using Existing Repository instead of creating New
 
 Suppose You created a repo in GitHub already. And you want to use that one.
 <br>Open the repo online & do the following - <br><br>
-![Cloning Existing Repository](Assets/Cloning_Repo_into_GD.png)<br><Br>
+![Cloning Existing Repository](Assets/Cloning_Repo_Into_Gd.png)<br><Br>
 Click on `Open with GitHub Desktop`
 <br>
 
@@ -25,7 +25,7 @@ Click on `Open with GitHub Desktop`
 
 You can add existing local repo by clicking on `Add an existing Repository from hard drive`<br><br>
 
-![GD Repo Screen](Assets/GD_Repo_Screen.png)<br>
+![GD Repo Screen](Assets/Gd_Repo_Screen.png)<br>
 
 #### Adding files & other stuff
 
@@ -37,7 +37,7 @@ Copy your files into the repo "folder"<br>
 GitHub Desktop will automatically detect the changes you made.<br>
 In my case I will add a demo text file.<br><br>
 
-![After adding files in repo](Assets/Adding_Files_in_GD.png)
+![After adding files in repo](Assets/Adding_Files_in_Gd.png)
 <br><br>
 Write a meaningful summary in the small text box just above Description. And add description too. Then Commit to master!<br>
 (Or whatever branch you are in)
@@ -57,4 +57,4 @@ You may want to keep this settings while publishing the repo.<br><br>
 _If you cloned the repo, or made changes after publishing repo_<br><br>
 
 Instead of `Publish Repository` you will see `Push Origin` button.<br> Click on it and all the commits are now being pushed to Remote Repository!<br><br>
-![Pushing to Remote Repo](Assets/Push_Origin_in_GD.png)
+![Pushing to Remote Repo](Assets/Push_Origin_in_Gd.png)
