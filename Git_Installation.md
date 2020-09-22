@@ -13,7 +13,7 @@ If you are on Mac OS if will download Mac OS version<br>
 After downloading the setup, install it.
 
 While Installing you might run through the following option -<br>
-![Editor Choice](Assets/Selecting_Git's_Editor.png)
+![Editor Choice](Assets/Selecting_Editor.png)
 
 Select whichever editor you are using, for this tutorial I will be using Atom editor as my default.<br>
 
