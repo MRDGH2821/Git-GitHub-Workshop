@@ -25,3 +25,4 @@ To understand how to move forward, follow the guide by opening the folders in th
 -   [Udacity Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)  
 -   [Real Python: Intro to Git & GitHub](https://realpython.com/python-git-github-intro/)
 -   [Git: Add All Files to a Repo](https://stackabuse.com/git-add-all-files-to-a-repo/)
+-   [Official GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
