@@ -5,7 +5,7 @@ _This guide works both on mobile & computer_<br><br>
 Click/Tap [here](https://www.github.com/new) to create a new Repo.
 Or open your profile & make a new one
 
-<img src="Assets/Creating_Repo_on_Web.png" alt="Creating Repo on web" style="zoom: 40%;" />
+<img src="Assets/Creating_Repo_on_Web.png" alt="Creating Repo on web" style="zoom: 80%;" />
 <br><br>
 
 #### Using existing Repository
@@ -14,7 +14,7 @@ Incase you already created a repo in your GitHub account, then open that repo by
 Here I will be using my existing repo, [Demo Repo](https://github.com/MRDGH2821/Demo-Repo)
 <br><br>
 
-<img src="Assets/Using_Existing_Repo_on_Web.png" alt="Using Existing Repo on web" style="zoom:40%;" />
+<img src="Assets/Using_Existing_Repo_on_Web.png" alt="Using Existing Repo on web" style="zoom: 80%;" />
 <br><br>
 
 ## Uploading Your Project
@@ -32,5 +32,5 @@ On PC, there will be dedicated button. Just use that!<br><br>
 
 After clicking/tapping on `Upload files` you will be asked to select files.
 
-<img src="Assets/Commiting_Uploaded_Files_on_Web.png" alt="Making Commits on Repo" style="zoom:40%;" /> <br><br>
+<img src="Assets/Commiting_Uploaded_Files_on_Web.png" alt="Making Commits on Repo" style="zoom: 80%;" /> <br><br>
 Make sure you give a meaningful summary & nice description to the commit before clicking on `Commit changes` !
