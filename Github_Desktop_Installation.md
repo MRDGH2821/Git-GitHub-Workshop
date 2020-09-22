@@ -2,7 +2,7 @@
 
 Head over to this [Site](https://desktop.github.com/)<br>
 Click on the button as shown here in this picture.<br>
-![Downloading GitHub Desktop](Assets/Downloading_Github_Desktop.png)
+[![Downloading GitHub Desktop](Assets/Downloading_Github_Desktop.png)](https://desktop.github.com/)
 
 This will download GitHub Desktop for your operating system.<br>
 

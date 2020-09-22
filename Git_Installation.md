@@ -2,7 +2,7 @@
 
 Head over to this [Site](https://git-scm.com/download)<br>
 Click on the button as shown here in this picture.<br>
-![Downloading Git](Assets/Downloading_Git.png)
+[![Downloading Git](Assets/Downloading_Git.png)](https://git-scm.com/download)
 
 This will download Git version Control for your operating system.<br>
 If you are on Windows, it will download Windows version<br>
