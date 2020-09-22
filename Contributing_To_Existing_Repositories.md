@@ -12,7 +12,7 @@ I'll be using Real-Dev-Squad's repository as an example. Links will vary accordi
 
 Fork this repository using the **Fork** option at the top-right corner of this page. This will create your own copy of this repository. You'll be redirected to your forked repository. Copy the link of this repository (which will look like `https://github.com/<your-username>/website-static/`) as you'll need it in the step 2.
 
-![how-to-fork](/Assets/forking.png)
+![how-to-fork](Assets/Forking.png)
 
 2.  **Cloning repository**
 
@@ -109,7 +109,7 @@ Now go to your forked repository and you'll see <br>
 `This branch is xx commits ahead of Real-Dev-Squad:main.`  <br>
 Right next to it will be an option to **Pull Request**. Click on it, submit your pull request (also known as _PR_) explaining what you've done.
 
-![how-to-open-pull-request](/Assets/pull-request.png)
+![how-to-open-pull-request](Assets/Pull-Request.png)
 
 10. **Review stage**
 
