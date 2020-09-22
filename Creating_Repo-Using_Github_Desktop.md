@@ -31,7 +31,7 @@ You can add existing local repo by clicking on `Add an existing Repository from 
 
 Now, open the repo using this button -<br>
 `Show in Explorer`<br><br>
-![Opening Repo Locally](Assets/Opening_Repo_locally.png)<br><br>
+![Opening Repo Locally](Assets/Opening_Repo_Locally.png)<br><br>
 
 Copy your files into the repo "folder"<br>
 GitHub Desktop will automatically detect the changes you made.<br>

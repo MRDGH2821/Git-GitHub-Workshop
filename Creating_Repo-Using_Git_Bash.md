@@ -200,7 +200,7 @@ I will demonstrate using `Gitbash Repo`
 
 1.  First I create a new GitHub repository [here](www.github.com/new)
 
-![Creating Remote Repository](Assets/Creating_Gitbash_Repo_On_Github.png)
+![Creating Remote Repository](Assets/Creating_Gitbash_Repo_on_Github.png)
 <br>
 After creating the repo, GitHub will show a quick setup page.
 ![Quick Setup Page](Assets/Gbr_Quicksetup.png)
@@ -216,6 +216,6 @@ And execute it in Git Bash.
 In my case, the repo had only 1 file - `Sample File.txt`
 
 And on GitHub it shows like this -<br>
-![GitBash Repo on GitHub](Assets/Gbr_On_Github.png)
+![GitBash Repo on GitHub](Assets/Gbr_on_Github.png)
 
 That's all!
