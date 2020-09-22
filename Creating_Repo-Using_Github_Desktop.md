@@ -50,7 +50,7 @@ After copying all the files, its time to Publish your repo to GitHub!
 ![Publishing Repo](Assets/Publishing_Repo.png)
 <br><br>
 You may want to keep this settings while publishing the repo.<br><br>
-![Publishing Config](Assets/Publishing_config.png)
+![Publishing Config](Assets/Publishing_Config.png)
 
 #### Pushing to the Repository
 
