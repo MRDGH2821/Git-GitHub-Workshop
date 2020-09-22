@@ -39,8 +39,6 @@ Click [here](Contributing_To_Existing_Repositories.md) to see the guide!
 ### References
 
 ##### Git & GitHub Guides
-
--   [MakeUseOf Markdown Cheat Sheet](https://www.makeuseof.com/tag/printable-markdown-cheat-sheet/)
 -   [Top 10 Git Tutorials for Beginners](https://www.webfx.com/blog/web-design/git-tutorials-beginners/)
 -   [Learn Git Branching](https://learngitbranching.js.org/)
 -   [Git Immersion](https://gitimmersion.com/index.html)
@@ -54,3 +52,4 @@ Click [here](Contributing_To_Existing_Repositories.md) to see the guide!
 ##### Markdown guides
 -   [Markdown Guide](https://www.markdownguide.org)
 -   [Official GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+-   [MakeUseOf Markdown Cheat Sheet](https://www.makeuseof.com/tag/printable-markdown-cheat-sheet/)
