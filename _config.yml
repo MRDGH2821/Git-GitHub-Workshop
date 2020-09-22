@@ -6,3 +6,9 @@ relative_links:
   collections: true
 include:
   - README.md
+  - Contributing_To_Existing_Repositories.md
+  - Creating_Repo-Using_Git_Bash.md
+  - Creating_Repo-Using_Github_Desktop.md
+  - Creating_Repo-Using_Website_or_Mobile.md
+  - Git_Installation.md
+  - Github_Desktop_Installation.md
