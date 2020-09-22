@@ -16,7 +16,7 @@ Click [Here](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&r
 
 [Git Installation Guide](/Git_Installation.md)<br>
 
-[GitHub Desktop installation Guide](/GitHub_Desktop_Installation.md)
+[GitHub Desktop installation Guide](/Github_Desktop_Installation.md)
 
 Installing GitHub Desktop app is optional, but it helps in Organizing your repositories easily.
 
