@@ -12,5 +12,3 @@ Markdown:
   pragma_insert: !<tag:yaml.org,2002:js/undefined> ''
   pragma_require: !<tag:yaml.org,2002:js/undefined> ''
   wrap_prose: !<tag:yaml.org,2002:js/undefined> ''
-'C#': !<tag:yaml.org,2002:js/undefined> ''
-Java: !<tag:yaml.org,2002:js/undefined> ''
