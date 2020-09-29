@@ -4,6 +4,22 @@ This is a written guide for PD Club's STW-PDW Workshop 2020.
 
 You can view this guide as a [Repository](https://github.com/MRDGH2821/Git-GitHub-Workshop) or as a [Website](https://mrdgh2821.github.io/Git-GitHub-Workshop/)
 
+# Table of contents
+
+<!-- TOC -->
+
+- [Git-GitHub-Workshop](#git-github-workshop)
+- [Table of contents](#table-of-contents)
+  - [Getting started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Creating Repo](#creating-repo)
+    - [Contributing To Existing Repositories by Sending a Pull Request (PR)](#contributing-to-existing-repositories-by-sending-a-pull-request-pr)
+  - [References](#references)
+    - [Git & GitHub Guides](#git--github-guides)
+    - [Markdown guides](#markdown-guides)
+
+<!-- /TOC -->
+
 ### Getting started
 
 Follow the guide in this order to get yourself acquainted with Git & GitHub!
