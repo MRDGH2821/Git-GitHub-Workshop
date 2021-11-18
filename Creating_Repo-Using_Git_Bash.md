@@ -13,11 +13,11 @@ While Initial steps differ, but once the repo is initialized, [steps are same](#
 
 Open Git Bash.
 Navigate to a folder where you would want to create your repo.
-<img src="Assets/Creating_Repo_in_Git_Bash.png" alt="Creating Repo using Git Bash"  />
+<img src="https://i.imgur.com/JqasBG3.png" alt="Creating Repo using Git Bash"  />
 
 _Pro tip_ - Open the folder in File Explorer & right Click on empty space and click on "Git Bash Here"
 
-![Creating Repo using Right click](Assets/Creating_Repo_in_Git_Bash_Using_Right_Click.png)
+![Creating Repo using Right click](https://i.imgur.com/YT5Z2ph.png)
 
 To initialize the repo, run this command
 
@@ -45,7 +45,7 @@ Or open your GitHub profile and create from there.
 
 After creating, Copy the Web URL (ending with .git)
 _In this picture, it is not showing completely. Just use that copy button._
-![Copying GitHub Repo WebURL](Assets/Cloning_Repo_Into_Gd.png)
+![Copying GitHub Repo WebURL](https://i.imgur.com/5AZLtfs.png)
 
 And use the command
 
@@ -53,7 +53,7 @@ And use the command
 git clone <url>
 ```
 
-![Cloning repo via Git Bash](Assets/Git_Bash_Clone.png)
+![Cloning repo via Git Bash](https://i.imgur.com/1D8NKzy.png)
 
 **Note:** After cloning, you need to enter into the local repo folder. Use `dir` command to list all the folders present. Use `cd` command to enter inside your repo.
 
@@ -67,23 +67,23 @@ Rest of the steps are same as above.<br>
 
 ### Adding files & other stuff
 
-There are few Linux terminal commands which work in Git Bash. And some Windows CMD commands too. In the above screenshots you can observe that `dir` is Windows CMD command & it works. 
+There are few Linux terminal commands which work in Git Bash. And some Windows CMD commands too. In the above screenshots you can observe that `dir` is Windows CMD command & it works.
 
 Equivalent Linux terminal command is `ls`. <br><br>
 My point is, you can use the usual Linux terminal command to navigate & copy files.<br><br>
 For the sake of simplicity, I will not be using terminal/CMD commands to copy files. I will be using Windows File Explorer to copy the files, Atom Text editor to edit them & finally Git Bash to commit changes.<br>
 
 I will be using both the repos - <br>
-`Demo-repo`  (This one is hosted on GitHub)<br>
+`Demo-repo` (This one is hosted on GitHub)<br>
 `Gitbash repo` (This one is locally created Repo)<br>
 To show how it is done.<br>
 
-![Empty GitBash Repo](Assets/Empty_Gitbash_Repo.png)
+![Empty GitBash Repo](https://i.imgur.com/GJqcLpA.png)
 
 #### Staging the Files
 
 After Adding a sample text file -<br>
-![GitBash Repo with sample txt file](Assets/Gbr_With_Sample_Txt.png)<br><br>
+![GitBash Repo with sample txt file](https://i.imgur.com/Ca4rrVV.png)<br><br>
 The new files are currently unstaged. We need to move them to staging area where we can commit them & push the changes.<br>
 
 As you can see in the screenshot, the command for adding/Staging files for tracking is -<br>
@@ -110,7 +110,7 @@ _Pro tip_ - To stage all new files, folders & subfolders use the following.<br>
 git add -A
 ```
 
- _Or_
+_Or_
 
 ```bash
 git add -all
@@ -120,7 +120,7 @@ git add -all
 
 After staging them, check using `git status` to see how many files are being currently being staged.<br>
 In my case there's only one file currently staged.
-![GitBash Staging Area](Assets/Gb_Staged_Files.png)
+![GitBash Staging Area](https://i.imgur.com/EeUeqgp.png)
 
 To commit the changes use this command -<br>
 
@@ -134,7 +134,7 @@ For example -<br>
 git commit -m "Added sample file"
 ```
 
-![GitBash Commiting Files](Assets/Gb_Commit_Files.png)
+![GitBash Commiting Files](https://i.imgur.com/C9uWWs9.png)
 <br>
 
 _Pro tip_ - Incase you want to commit all new & modified files, use this command -
@@ -157,8 +157,8 @@ I have done 2 changes.
 2.  Modify existing file.
 
 Here are the commands which I executed.<br><br>
-![Demo-Repo part 1](Assets/Gb_Demo_Repo_P1.png)<br><br>
-![Demo-Repo part 2](Assets/Gb_Demo_Repo_P2.png)
+![Demo-Repo part 1](https://i.imgur.com/dtn1Zq9.png)<br><br>
+![Demo-Repo part 2](https://i.imgur.com/AaCXnou.png)
 <br>
 
 After making all commits, I have used this command to push the commits to remote Repository -<br>
@@ -179,7 +179,7 @@ Focus: GitBash Repo
 
 When you will try executing `git push` command on locally created repo, Git Bash will report the following.<br>
 
-![GitBash having no remote Repository](Assets/Gb_No_Remote.png)
+![GitBash having no remote Repository](https://i.imgur.com/y0oJ0Pm.png)
 
 To set a remote Repository, we need name & URL.<br>
 And then we need to execute the following command
@@ -190,9 +190,9 @@ git remote add <name> <url>
 
 The above command follows the generic syntax of git remote add <name> <repository url>
 
--   Add: To add a new URL to the repository.
--   Name: To give a name that you will use instead of the URL of the repository.
--   URL: The URL of the repository.
+- Add: To add a new URL to the repository.
+- Name: To give a name that you will use instead of the URL of the repository.
+- URL: The URL of the repository.
 
 To get the URL, refer "Creating new GitHub Repository" section. Once you copy the URL execute the command.
 
@@ -200,15 +200,15 @@ I will demonstrate using `Gitbash Repo`
 
 1.  First I create a new GitHub repository [here](www.github.com/new)
 
-![Creating Remote Repository](Assets/Creating_Gitbash_Repo_on_Github.png)
+![Creating Remote Repository](https://i.imgur.com/jsP72eu.png)
 <br>
 After creating the repo, GitHub will show a quick setup page.
-![Quick Setup Page](Assets/Gbr_Quicksetup.png)
+![Quick Setup Page](https://i.imgur.com/b0vvK8X.png)
 
 2.  To make things easier, copy the commands present at<br> `…or push an existing repository from the command line`
 
 And execute it in Git Bash.
-![setting remote repository](Assets/Setting_Remote_Repo.png)
+![setting remote repository](https://i.imgur.com/54NAblp.png)
 
 3.  To check whether the commits have been pushed successfully (even though Git Bash tells you though)<br>
     Open your GitHub repository and see for yourselves!
@@ -216,6 +216,6 @@ And execute it in Git Bash.
 In my case, the repo had only 1 file - `Sample File.txt`
 
 And on GitHub it shows like this -<br>
-![GitBash Repo on GitHub](Assets/Gbr_on_Github.png)
+![GitBash Repo on GitHub](https://i.imgur.com/dVjbXT8.png)
 
 That's all!
